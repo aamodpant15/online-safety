@@ -26,7 +26,7 @@ Phishing is when a person sends a link to a fraudulent website that looks real, 
 
 So, you clicked on the link, do not worry, you do not automatically get hacked. If the link tries to download something as soon as you click on it, delete the download, and report the email as spam. But more often than not, the link takes you to a website that looks official. Now, look at the website name in the top of your browser. If it is not `facebook.com/randomthings`, it's fake. But here's the trick, the website name in the top could have `facebook` in it, and the website could still be fake. Here is an example of a fake Bank of America Loging Website-
 
-(https://darhastore.com/wp-content/1bankofamerica.com.login.update.9855/update.html)[#Bank-of-America-Scam-Website] (**DO NOT VISIT**)
+https://darhastore.com/wp-content/1bankofamerica.com.login.update.9855/update.html (**DO NOT VISIT**)
 
 But look at the address, it has `bankofamerica.com` in it, but that is not the main website name, the main website is the `darhastore`. It is difficult to differentiate at a quick glance, specially when some sites are much better than this one, at hiding their actual names. Some websites will put the fake name before the actual name. So, it could be `bankofamerica.com/actualusername.com`. In this case, its much more difficult to tell, isn't it?
 
@@ -35,7 +35,7 @@ So, how to deal with this?
 Browsers like Google Chrome, automatically highlight the real website name for you. Always look at the **highlighted** name before giving any information.
 Here is the same example of a fake Bank of America website. Because of the highlighting done by Chrome, it is clear as day, that this website is fake. Here's the same website, with highlighting
 
-(https://**darhastore.com**/wp-content/1bankofamerica.com.login.update.9855/update.html)[#Bank-of-America-Scam-Website] (**DO NOT VISIT**)
+https://**darhastore.com**/wp-content/1bankofamerica.com.login.update.9855/update.html (**DO NOT VISIT**)
 
 For safari, you can choose to show just the main address by, 
 ``` 
