@@ -16,7 +16,7 @@ If the sender is unknown, and not a reputable source (ie. a company email), as a
 ## Websites
 
 ### http vs. https
-One often hears that a website with `https://` and the lock symbol beside it, is secure. And yes, that is true to a point. But, if you go back, and look at that website screenshot, you will see that it is a `https://` website, and has the lock symbol, yet, we know it to be a scam. So, clearly, `https` does not guarantee that your website is secure. What does it mean then?
+One often hears that a website with `https://` and the lock symbol beside it, is secure. And yes, that is true to a certain extent. But, if you scroll down to, and look at that website screenshot, you will see that it is a `https://` website, and has the lock symbol, yet, we know it to be a scam. So, clearly, `https` does not guarantee that your website is secure. What does it mean then?
 
 The https is added to a website name, when its owner, buys an SSL certificate. In simple terms, and SSL certificate verifies to the user, that the information ebing sent to the website, is encrypted. Here's the catch, this assumes that the website you are sending the information to, is legitimate. But when the website itself is dubious, the SSL certificate simply means that you are sending your information extremely safely, to the hackers.
 
