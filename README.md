@@ -34,3 +34,5 @@ For safari, you can choose to show just the main address by,
 Here is how that would look, on a different phishing website in Chrome- 
 
 ![bofa_scam](BOFA_phishing.png)
+
+So, those are some of the ways that come to reduce chances of being a target of online attacks, and attempts to obtain personal information from your devices.
