@@ -1,6 +1,7 @@
 # Online-safety
 
-In light of the recent circumstances of people gaining access to phones, I have compiled a few tricks I have gathered to have a safe presence online.
+Online safety is of utmost importance tdoay, and there are some simple ways of protecting your devices from such attacks.
+Malware and Viruses can enter your devices through scamming emails, websites, and downloads. Lets tackle them one by one-
 
 ## Emails
 
@@ -46,4 +47,17 @@ Here is how that would look, on a different phishing website in Chrome-
 #### Bank of America Scam Website
 ![bofa_scam](BOFA_phishing.png)
 
-So, those are some of the ways that come to reduce chances of being a target of online attacks, and attempts to obtain personal information from your devices.
+## Downloads
+
+Downloads are particularly dangerous, since they already have access to your devices, since they're stored on them. Once that happens, it's easy to collect information in the background. Most of these viruses come through downloads from piracy websites which provide free downloads for songs, movies, games, and other applications. Most of the viruses are but a random file in the plethora of files that are a part of the application, that we download. For example, how many of us actually check the files added during the installation of Microsoft Word? Even if we did check, there's no way of knowing if one of the files is a virus.
+
+Most big files are downloaded as `.zip`/`.rar` files, which are specially harmful. Since most anti-virus softwares cannot scan them, avoid those files particularly. If you do end up downloading a zip file and extracting it, manually have the anti-virus software scan the extracted folder, and permanently delete and suspicious files it finds.
+
+Hence, never download files from random websites, torrents (unless you are absolutely sure what you are doing, as some trusted softwares can be downloaded through torrents), or as attachments from unknown email senders. 
+
+## The biggest takeway
+
+An anti-virus software alone will not protect you from everything, hence it is important to know some tricks that keep you safer with or without it.
+
+This is because, security software is always playing catch-up with the most recent malwares and viruses. New exploits come about, and companies find and implement ways to stop those exploits. Thus, at any given point, there is a virus/malware that no anti-virus can detect or stop. So, in spite of doing all this, there might be a new hack that can bypass everything given above. 
+But it's not all bad. As long as we keep ourselves away from suspicious websites, and keep an eye out for them, we will remain safe. 
