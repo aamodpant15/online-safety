@@ -1,7 +1,12 @@
 # Online-safety
 
 Online safety is of utmost importance tdoay, and there are some simple ways of protecting your devices from such attacks.
-Malware and Viruses can enter your devices through scamming emails, websites, and downloads. Lets tackle them one by one-
+Malware and Viruses can enter your devices through scamming 
+1. Emails,
+2. Websites, 
+3. Downloads
+
+Lets tackle them one by one-
 
 ## Emails
 
