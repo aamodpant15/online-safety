@@ -16,9 +16,10 @@ If the sender is unknown, and not a reputable source (ie. a company email), as a
 ## Websites
 
 ### http vs. https
-One often hears that a website with `https://` and the lock symbol beside it, is secure. And yes, that is true to a certain extent. But, look at this example where the website has `https://`, and a lock symbol beside it, but is known to be a [fake website](#Bank-of-America-Scam-Website), and look at that website screenshot, you will see that it is a `https://` website, and has the lock symbol, yet, we know it to be a scam. So, clearly, `https` does not guarantee that your website is secure. What does it mean then?
+One often hears that a website with `https://` and the lock symbol beside it, is secure. And yes, that is true to a certain extent. But, look at this example where the website has `https`, and a lock symbol beside it. Yet, it is a known [fake website](#Bank-of-America-Scam-Website). 
+Thus, clearly `https` does not guarantee that your website is secure. So, what does it actually mean?
 
-The https is added to a website name, when its owner, buys an SSL certificate. In simple terms, and SSL certificate verifies to the user, that the information ebing sent to the website, is encrypted. Here's the catch, this assumes that the website you are sending the information to, is legitimate. But when the website itself is dubious, the SSL certificate simply means that you are sending your information extremely safely, to the hackers.
+The https is added to a website name, when its owner, buys an SSL certificate. In simple terms, and SSL certificate verifies to the user, that the information being sent to the website, is encrypted. Therefore, no middlemen can access it, or take advantage of it. But here's the catch, this assumes that the website you are sending the information to, is legitimate. But when the website itself is dubious, the SSL certificate simply means that you are sending your information extremely safely, to the hackers.
 
 ### Phishing Scams
 Phishing is when a person sends a link to a fraudulent website that looks real, in order to collect information. An example would be, faking the Facebook login page, and sending you the link in an email, pretending to be facebook. Use the email tips above to make it such, that you figure out the scam before clicking on the link. But it often happens that one forgets to check it. Let us continue with the facebook example.
